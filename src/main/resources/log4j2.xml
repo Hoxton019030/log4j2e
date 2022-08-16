@@ -9,7 +9,7 @@
     使用時通過:${name}
     -->
     <properties>
-        <property name="LOG_HOME">D:/logs</property>
+        <property name="LOG_HOME">C:/logs</property>
     </properties>
 
     <!-- 日誌處理 -->
