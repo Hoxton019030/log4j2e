@@ -12,11 +12,11 @@
 分五個級別 
 
 
-# FATAL
-## ERROR
-### WARN
-#### INFO
-##### DEBUG
+## FATAL
+### ERROR
+#### WARN
+##### INFO
+###### DEBUG
 
 
 
